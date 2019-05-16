@@ -1,0 +1,3 @@
+rootProject.name = 'onenote'
+
+include ':app'
